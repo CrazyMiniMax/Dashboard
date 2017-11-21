@@ -1,6 +1,7 @@
 {
     "name": "maxma/dashboard",
     "description": "Backend",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "MaxMa",
