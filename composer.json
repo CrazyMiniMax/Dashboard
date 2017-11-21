@@ -1,0 +1,16 @@
+{
+    "name": "CrazyMiniMax/dashboard",
+    "description": "Backend",
+    "authors": [
+        {
+            "name": "Max",
+            "email": "s89255265@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Maxma\\Dashboard\\": "src/"
+        }
+    }
+}
